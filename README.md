@@ -52,11 +52,4 @@ The objective was to analyze **operational and financial datasets** to uncover b
 This repo contains a **simulated structure** representing my professional work (company data/code not included):  
 - `python/` → Sample Python scripts for data cleansing & analysis (Pandas, NumPy).  
 - `SQL/` → Example SQL queries for extracting and transforming data.    
-- `Power BI Dashbaord/` → Screenshots of dashboards & workflow diagrams.  
-
----
-
-## 🖼️ Example Dashboard Preview  
-
-```markdown
-![Power BI Dashboard](Power BI Dashboard/Sales Overview.png)
+- `Power BI Dashbaord/` → Screenshots of dashboards & workflow diagrams. 
